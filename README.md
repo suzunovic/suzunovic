@@ -75,3 +75,6 @@ With near-zero public stats they render as "0 stars, rank C, No languages data".
   <a href="https://t.me/suzunovic"><img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://www.instagram.com/suzunovic.dev/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a>
 </p>
+
+
+<img src="https://raw.githubusercontent.com/ishandutta2007/snk/output-svg-only/github-contribution-grid-snake.svg" alt="e" style="max-width: 100%;">
